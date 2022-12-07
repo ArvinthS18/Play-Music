@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import ringer from "./Wow Wow Wubzy.mp3";
+import ringer from "./Anime WOW sound.mp3";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
